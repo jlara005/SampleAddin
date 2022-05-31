@@ -130,7 +130,7 @@
         </bt:Urls>
         <bt:ShortStrings>
           <bt:String id="GroupLabel" DefaultValue="Add-in"/>
-          <bt:String id="TaskpaneButton.Label" DefaultValue="Classification and Designation Tool"/>
+          <bt:String id="TaskpaneButton.Label" DefaultValue="Sample Add-in"/>
         </bt:ShortStrings>
         <bt:LongStrings>
           <bt:String id="TaskpaneButton.Tooltip" DefaultValue="Opens a pane displaying all available properties."/>
